@@ -17,9 +17,19 @@ body {
 }
 
 .site-sidebar {
-    padding-top: 10px;
+    padding-top: 30px;
+    padding-left: 0;
+    padding-right: 0;
     background-color: #F0F0F0;
     height: 100%;
+}
+
+.nav-pills > li > a {
+    border-radius: 0;
+}
+
+.site-page {
+    padding: 10px;
 }
 
 footer {
