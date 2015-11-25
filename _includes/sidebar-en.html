@@ -1,6 +1,6 @@
 <div class="list-group">
-  <a href="#" class="list-group-item active">Latest News<</a>
-  <a href="#" class="list-group-item">Organization</a>
-  <a href="#" class="list-group-item">Sponsors</a>
+  <a href="{{ '/en/' | prepend: site.baseurl }}" class="list-group-item {% if page.url == '/en/' %} active {% endif %}">Latest News</a>
+  <a href="{{ '/en/organization.html' | prepend: site.baseurl }}" class="list-group-item {% if page.url contains 'en/organization.html' %} active {% endif %}">Organization</a>
+  <a href="{{ '/en/sponsors.html' | prepend: site.baseurl }}" class="list-group-item {% if page.url contains 'en/sponsors.html' %} active {% endif %}">Sponsors</a>
   <a href="#" class="list-group-item">Registration</a>
 </div>
