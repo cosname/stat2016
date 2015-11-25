@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 大统计与数据科学
+title: 大统计与数据科学联合会议
 email: contact@cos.name
 description: 第七届中国人民大学国际统计论坛/第九届中国R语言会议/2016百分点数据与价值论坛
 baseurl: "" # the subpath of your site, e.g. /blog
