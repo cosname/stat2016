@@ -5,8 +5,8 @@
 
       <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav">
-          <li {% if page.url == '/' %} class="active" {% endif %}><a href="{{ '/' | prepend: site.baseurl }}">首页</a></li>
-          <li {% if page.url == '/en/' %} class="active" {% endif %}><a href="{{ '/en/' | prepend: site.baseurl }}">English</a></li>
+          <li {% if page.url == '/' | prepend: site.baseurl %} class="active" {% endif %}><a href="{{ '/' | prepend: site.baseurl }}">首页</a></li>
+          <li {% if page.url == '/en/' | prepend: site.baseurl %} class="active" {% endif %}><a href="{{ '/en/' | prepend: site.baseurl }}">English</a></li>
         </ul>
       </div>
 
