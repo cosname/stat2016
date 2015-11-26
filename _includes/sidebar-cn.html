@@ -1,6 +1,18 @@
 <div class="list-group">
-  <a href="{{ '/' | prepend: site.baseurl }}" class="list-group-item {% if page.url == '/index.html' %} active {% endif %}">最新信息</a>
-  <a href="{{ '/organization.html' | prepend: site.baseurl }}" class="list-group-item {% if page.url contains 'organization.html' %} active {% endif %}">主办机构</a>
-  <a href="{{ '/sponsors.html' | prepend: site.baseurl }}" class="list-group-item {% if page.url contains 'sponsors.html' %} active {% endif %}">会议赞助</a>
-  <a href="#" class="list-group-item">报名参会</a>
+  <a href="{{ '/' | prepend: site.baseurl }}" class="list-group-item {% if page.url == '/index.html' %} active {% endif %}">
+    <span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span>&nbsp;
+    最新信息
+  </a>
+  <a href="{{ '/organization.html' | prepend: site.baseurl }}" class="list-group-item {% if page.url contains 'organization.html' %} active {% endif %}">
+    <span class="glyphicon glyphicon-education" aria-hidden="true"></span>&nbsp;
+    主办机构
+  </a>
+  <a href="{{ '/sponsors.html' | prepend: site.baseurl }}" class="list-group-item {% if page.url contains 'sponsors.html' %} active {% endif %}">
+    <span class="glyphicon glyphicon-gift" aria-hidden="true"></span>&nbsp;
+    会议赞助
+  </a>
+  <a href="#" class="list-group-item">
+    <span class="glyphicon glyphicon-user" aria-hidden="true"></span>&nbsp;
+    报名参会
+  </a>
 </div>
