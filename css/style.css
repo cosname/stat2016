@@ -37,6 +37,10 @@ body {
     padding-right: 30px;
 }
 
+.site-page img.logo {
+    width: 35%;
+}
+
 footer {
     background-color: #E8E5CE;
     color: #686758;
