@@ -3,8 +3,6 @@ layout: page-en
 title: Big Statistics & Data Science Joint Conference
 ---
 
-## Big Statistics & Data Science Joint Conference
-
 <h3 class="text-center">The 7<sup>th</sup> International Forum on Statistics of Renmin University of China</h3>
 <h3 class="text-center">The 9<sup>th</sup> China-R Conference</h3>
 <h3 class="text-center">The 2016 Baifendian Data and Value Forum</h3>
