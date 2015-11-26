@@ -1,8 +1,7 @@
 ---
 layout: page-cn
+title: 大统计与数据科学联合会议
 ---
-
-## 大统计与数据科学联合会议
 
 <h3 class="text-center">第七届中国人民大学国际统计论坛</h3>
 <h3 class="text-center">第九届中国R语言会议</h3>
