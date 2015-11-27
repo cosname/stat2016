@@ -29,12 +29,25 @@ body {
     padding: 10px 30px;
 }
 
+@media (max-width: 1199px) {
+    .site-page {
+        padding: 10px 0;
+    }
+}
+
 .site-page .well {
     border-radius: 0;
     box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.12), 0 1px 6px 0 rgba(0, 0, 0, 0.12);
     background-color: #FFFFFF;
     padding-left: 30px;
     padding-right: 30px;
+}
+
+@media (max-width: 991px) {
+    .site-page .well {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
 }
 
 .site-page img.logo {
