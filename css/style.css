@@ -21,7 +21,9 @@ body {
 }
 
 .list-group-item:first-child,
-.list-group-item:last-child {
+.list-group-item:last-child,
+.panel,
+.panel-heading {
     border-radius: 0;
 }
 
