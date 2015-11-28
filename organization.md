@@ -1,7 +1,11 @@
 ---
 layout: page-cn
-title: 大统计与数据科学联合会议主办方
+title: 大统计与数据科学联合会议主办机构
 ---
+
+<div class="page-header">
+  <h2>联合主办</h2>
+</div>
 
 ### [中国人民大学统计学院](http://stat.ruc.edu.cn/index.html)
 
@@ -39,3 +43,13 @@ title: 大统计与数据科学联合会议主办方
 <img src="{{ '/img/logo-baifendian.jpg' | prepend: site.baseurl }}" alt="百分点" class="img-responsive center-block logo" />
 
 百分点是国内领先的企业级大数据技术与应用的服务商，专注于满足市场对海量异构数据的融合与应用需求，使企业能高效、便捷地进行数据资产管理和价值实现。百分点为互联网及实体企业提供大数据技术平台搭建和大数据驱动的SaaS应用，客户涵盖制造、金融、电商、电信等行业。核心产品包括基础层的大数据操作系统，管理层的用户画像标签工场，以及应用层的推荐引擎、分析引擎和营销引擎。
+
+<div class="page-header">
+  <h2>共同协办</h2>
+</div>
+
+### [泛华统计协会](http://icsa.org/)
+
+<img src="{{ '/img/logo-icsa.png' | prepend: site.baseurl }}" alt="泛华统计协会" class="img-responsive center-block logo" />
+
+泛华统计协会（ICSA）是一个致力于教育、慈善和科研目标的非营利组织。协会正式成立于1987年在旧金山举办的联合统计会议上。1988年8月8日，ICSA在特拉华州成立公司，之后在美国联邦政府注册成为一个非盈利组织。协会会员对所有统计相关领域个人和组织开放。
