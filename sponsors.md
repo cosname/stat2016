@@ -3,13 +3,13 @@ layout: page-cn
 title: 大统计与数据科学联合会议赞助商
 ---
 
-### 考拉征信
+### [考拉征信](http://www.lakalaskq.com/klzx/)
 
 <img src="{{ '/img/logo-kaola.jpg' | prepend: site.baseurl }}" alt="考拉征信" class="img-responsive center-block logo" />
 
 是具有社会公信力的、开放式综合信用服务机构，是当前国内仅有的几家同时持有个人征信资质和企业征信牌照的征信企业之一，也是国内首个成立专注于大数据征信模型研究的专业实验室的征信机构，致力于为构建诚信社会提供权威、高效的征信服务。
 
-### 量邦科技
+### [量邦科技](http://www.quanttech.cn/)
 
 <img src="{{ '/img/logo-liangbang.jpg' | prepend: site.baseurl }}" alt="量邦科技" class="img-responsive center-block logo" />
 
