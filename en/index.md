@@ -25,7 +25,7 @@ The theme of this joint conference is: Big Statistics and Data Science. The obje
 
 We wish to take this opportunity to promote statistics contribution to data science. We wish the voice of statistics to be loudly heard in data science. This leads to the conference theme: Big Statistics and Data Science. The topic of this joint conference is broad–anything related to data analysis, regardless of whether it is a theoretical or applied work. To promote statistical application in the big data industry, the conference particularly welcome those researchers who focus on big data related industry problems.
 
-The conference is to be hold at **Renmin University of China** on **May 27 to 29** in 2016.
+The conference is to be held at **Renmin University of China** on **May 27 to 29** in 2016.
 
 Participants are invited to send the abstracts of their papers to bigstatistics@163.com (Miss Li Shen, Miss Cheng Yao) before **March 1, 2016**.
 
