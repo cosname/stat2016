@@ -27,9 +27,9 @@ title: 大统计与数据科学联合会议主办机构
 
 北京大学统计科学中心为跨学院的交叉学科研究机构，其目标是协调全校统计研究的力量，促进统计学与其他学科的交叉与融合，建设世界一流的统计研究机构。中心的目的与使命：整合全校统计研究力量，培养综合型的统计人才，推动统计学研究与教育走向世界，成为世界一流的统计研究机构。扩展统计学在其它学科的应用。
 
-### [伦敦政治经济学院统计系](http://www.lse.ac.uk/statistics/home.aspx)
+### [Department of Statistics, London School of Economics](http://www.lse.ac.uk/statistics/home.aspx)
 
-伦敦政治经济学院统计系拥有十分卓越的历史，是英国成立最早的统计学专业。在长期的社会科学研究与教学实践中，伦敦政经统计系对统计学方法的发展做出了杰出贡献，在国际上享有声誉。目前伦敦政经统计系有统计学专业、金融统计专业、风险与随机专业三个硕士学位授权点，以及精算科学专业、商务数学与统计专业、金融统计专业三个学士学位授权点。
+The department has an international reputation for development of statistical methodology that has grown from its long history of active contributions to research and teaching in statistics for the social sciences. We offer three undergraduate honours degree courses: BSc Actuarial Science, BSc Business Mathematics and Statistics and BSc Statistics with Finance, three master courses: MSc Statistics, MSc Statistics (Financial Statistics) and MSc Risk and Stochastics.
 
 ### [统计之都](http://cos.name/)
 
@@ -38,7 +38,7 @@ title: 大统计与数据科学联合会议主办机构
 统计之都（Capital of Statistics，简称COS，网址
 [http://cos.name/](http://cos.name/)）成立于2006年5月，是一个旨在推广与应用统计学知识的网站和社区。统计之都发源于中国人民大学统计学院，现由世界各地的众多志愿者共同管理维护，旨在搭建一个开放的平台，使得科研人员、企业数据分析人员和统计学爱好者能互相交流合作。统计之都的治站格言是“专业、人本和正直”，力图在此格言指导下通过专业的知识和团队、人本的交流与传播、正直的态度和审视，来更好地推动统计学在中国的发展与传播。
 
-### [百分点信息科技有限公司](http://www.baifendian.com/)
+### [百分点](http://www.baifendian.com/)
 
 <img src="{{ '/img/logo-baifendian.jpg' | prepend: site.baseurl }}" alt="百分点" class="img-responsive center-block logo" />
 
