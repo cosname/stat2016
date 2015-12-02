@@ -9,7 +9,7 @@
 title: 大统计与数据科学联合会议
 email: contact@cos.name
 description: 第七届中国人民大学国际统计论坛/第九届中国R语言会议/2016百分点数据与价值论坛
-baseurl: "/stat2016" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://stat2016.china-r.org" # the base hostname & protocol for your site
 
 # Build settings
