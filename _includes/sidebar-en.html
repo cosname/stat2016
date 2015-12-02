@@ -1,6 +1,27 @@
 <div class="list-group">
-  <a href="{{ '/en/' | prepend: site.baseurl }}" class="list-group-item {% if page.url == '/en/index.html' %} active {% endif %}">Latest News</a>
-  <a href="{{ '/en/organization.html' | prepend: site.baseurl }}" class="list-group-item {% if page.url contains 'en/organization.html' %} active {% endif %}">Organization</a>
-  <a href="{{ '/en/sponsors.html' | prepend: site.baseurl }}" class="list-group-item {% if page.url contains 'en/sponsors.html' %} active {% endif %}">Sponsors</a>
-  <a href="#" class="list-group-item">Registration</a>
+  <a href="{{ '/en/' | prepend: site.baseurl }}" class="list-group-item {% if page.url == '/en/index.html' %} active {% endif %}">
+    <span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span>&nbsp;
+    Latest News
+  </a>
+  <a href="http://china-r-beijing2016.eventdove.com/" class="list-group-item">
+    <span class="glyphicon glyphicon-user" aria-hidden="true"></span>&nbsp;
+    Registration
+  </a>
+</div>
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>&nbsp;
+    Key Dates
+  </div>
+  <div class="panel-body">
+    <h4>January 1</h4>
+    <p>Registration Opens</p>
+    <h4>March 1</h4>
+    <p>Abstract Submission Deadline</p>
+    <h4>March 30</h4>
+    <p>Registration Deadline</p>
+    <h4>May 27-29</h4>
+    <p>Meeting Dates</p>
+  </div>
 </div>

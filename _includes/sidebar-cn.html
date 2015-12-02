@@ -1,6 +1,35 @@
 <div class="list-group">
-  <a href="{{ '/' | prepend: site.baseurl }}" class="list-group-item {% if page.url == '/index.html' %} active {% endif %}">最新信息</a>
-  <a href="{{ '/organization.html' | prepend: site.baseurl }}" class="list-group-item {% if page.url contains 'organization.html' %} active {% endif %}">主办机构</a>
-  <a href="{{ '/sponsors.html' | prepend: site.baseurl }}" class="list-group-item {% if page.url contains 'sponsors.html' %} active {% endif %}">会议赞助</a>
-  <a href="#" class="list-group-item">报名参会</a>
+  <a href="{{ '/' | prepend: site.baseurl }}" class="list-group-item {% if page.url == '/index.html' %} active {% endif %}">
+    <span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span>&nbsp;
+    最新信息
+  </a>
+  <a href="{{ '/organization.html' | prepend: site.baseurl }}" class="list-group-item {% if page.url contains 'organization.html' %} active {% endif %}">
+    <span class="glyphicon glyphicon-education" aria-hidden="true"></span>&nbsp;
+    主办机构
+  </a>
+  <a href="{{ '/sponsors.html' | prepend: site.baseurl }}" class="list-group-item {% if page.url contains 'sponsors.html' %} active {% endif %}">
+    <span class="glyphicon glyphicon-gift" aria-hidden="true"></span>&nbsp;
+    会议赞助
+  </a>
+  <a href="http://china-r-beijing2016.eventdove.com/" class="list-group-item">
+    <span class="glyphicon glyphicon-user" aria-hidden="true"></span>&nbsp;
+    报名参会
+  </a>
+</div>
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>&nbsp;
+    重要日期
+  </div>
+  <div class="panel-body">
+    <h4>1 月 1 日</h4>
+    <p>开放注册</p>
+    <h4>3 月 1 日</h4>
+    <p>摘要提交截止</p>
+    <h4>3 月 30 日</h4>
+    <p>注册截止</p>
+    <h4>5 月 27 日至 29 日</h4>
+    <p>会议召开</p>
+  </div>
 </div>
