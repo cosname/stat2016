@@ -27,9 +27,11 @@ title: 大统计与数据科学联合会议主办机构
 
 北京大学统计科学中心为跨学院的交叉学科研究机构，其目标是协调全校统计研究的力量，促进统计学与其他学科的交叉与融合，建设世界一流的统计研究机构。中心的目的与使命：整合全校统计研究力量，培养综合型的统计人才，推动统计学研究与教育走向世界，成为世界一流的统计研究机构。扩展统计学在其它学科的应用。
 
-### [Department of Statistics, London School of Economics](http://www.lse.ac.uk/statistics/home.aspx)
+### [伦敦政治经济学院统计学系](http://www.lse.ac.uk/statistics/home.aspx)
 
-The department has an international reputation for development of statistical methodology that has grown from its long history of active contributions to research and teaching in statistics for the social sciences. We offer three undergraduate honours degree courses: BSc Actuarial Science, BSc Business Mathematics and Statistics and BSc Statistics with Finance, three master courses: MSc Statistics, MSc Statistics (Financial Statistics) and MSc Risk and Stochastics.
+<img src="{{ '/img/logo-lse.jpg' | prepend: site.baseurl }}" alt="伦敦政治经济学院" class="img-responsive center-block logo" />
+
+伦敦政治经济学院统计系拥有十分卓越的历史，是英国成立最早的统计学专业。在长期的社会科学研究与教学实践中，伦敦政经统计系对统计学方法的发展做出了杰出贡献，在国际上享有声誉。目前伦敦政经统计系有统计学专业、金融统计专业、风险与随机专业三个硕士学位授权点，以及精算科学专业、商务数学与统计专业、金融统计专业三个学士学位授权点。
 
 ### [统计之都](http://cos.name/)
 
@@ -53,3 +55,7 @@ The department has an international reputation for development of statistical me
 <img src="{{ '/img/logo-icsa.png' | prepend: site.baseurl }}" alt="泛华统计协会" class="img-responsive center-block logo" />
 
 泛华统计协会（ICSA）是一个致力于教育、慈善和科研目标的非营利组织。协会正式成立于1987年在旧金山举办的联合统计会议上。1988年8月8日，ICSA在特拉华州成立公司，之后在美国联邦政府注册成为一个非盈利组织。协会会员对所有统计相关领域个人和组织开放。
+
+### [中国统计学会](http://www.nssc.stats.gov.cn/)
+
+中国统计学会（NSSC）成立于1979年，同年经国务院批准参加国际统计学会第42届会议，并被接纳为该会的团体会员。中国统计学会是全国性研究统计科学的学术性、非营利性社会组织，由单位会员和个人会员自愿组成。业务主管部门是国家统计局。学会现有单位会员、分会71个，即各省、自治区、直辖市、重点城市统计学会47个，国务院各部门统计分会24个，个人会员5056人。
